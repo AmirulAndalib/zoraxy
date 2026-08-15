@@ -10,8 +10,10 @@
 #
 # Thank you — from the bottom of our hearts!
 #
-# Last update: 7/7/2026
+# Last update: 15/8/2026
 
+Peter Balslev
+Mathias König
 Robert Wunderl
 Mirano Verhoef
 Robin Schambach
